@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**SayaliDane/SayaliDane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Sayali Dane👋
 
-Here are some ideas to get you started:
+I am a Data Scientist and Machine Learning Engineer with a passion for turning data into actionable insights. Here’s a bit more about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+- **Languages**: Python, R, SQL
+- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn,OpenCV
+- **Data Visualization**: Matplotlib, Seaborn, Tableau
+
+
+## 🏆 Achievements
+- **Certification**: Certified in Data Analytics from Imarticus Institute.
+- **Certification**: Azure Administration
+
+## 📫 How to reach me
+- **Email**: [sayli.dane@gmail.com]
+- **LinkedIn**: [www.linkedin.com/in/sayali-dane21]
+
+## 🌱 Fun Facts
+- I love outdoor adventures.
+- I'm a big fan of cricket.
+
+Thanks for visiting my profile!
