@@ -1,11 +1,11 @@
 
 # Hi there, I'm Sayali Dane👋
 
-I am a Data Scientist and Machine Learning Engineer with a passion for turning data into actionable insights. Here’s a bit more about me:
+I am an Artificial Intelligence and Machine Learning Engineer with a passion for turning data into actionable insights. Here’s a bit more about me:
 
 ## 🚀 Skills
 - **Languages**: Python, R, SQL
-- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn,OpenCV
+- **Frameworks**: TensorFlow, PyTorch, Scikit-Learn,OpenCV,ChatGPT
 - **Data Visualization**: Matplotlib, Seaborn, Tableau
 
 
